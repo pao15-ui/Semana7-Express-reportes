@@ -1,0 +1,17 @@
+PRUEBA DE REPORTES - Semana 7
+Fecha: 2026-06-21
+
+1. GET inicial - array vacío:
+[]
+
+2. POST reporte 1:
+{"mensaje":"Reporte registrado","reporte":{"id":1,"tipo":"Infraestructura","descripcion":"Bache en la carrera 80"}}
+
+3. POST reporte 2:
+{"mensaje":"Reporte registrado","reporte":{"id":2,"tipo":"Ambiente","descripcion":"Basuras acumuladas en el parque"}}
+
+4. POST reporte 3:
+{"mensaje":"Reporte registrado","reporte":{"id":3,"tipo":"Infraestructura","descripcion":"Daño en la carrera 15"}}
+
+5. GET final - 3 reportes:
+[{"id":1,"tipo":"Infraestructura","descripcion":"Bache en la carrera 80"},{"id":2,"tipo":"Ambiente","descripcion":"Basuras acumuladas en el parque"},{"id":3,"tipo":"Infraestructura","descripcion":"Daño en la carrera 15"}]

@@ -1,0 +1,9 @@
+Las APIs son importantes para las
+ comunidades porque permiten conectar aplicaciones, páginas web y sistemas de 
+ las alcaldías para compartir información en tiempo real. 
+Con una API como la de reportes que hicimos, los ciudadanos pueden enviar 
+desde su celular problemas como daños en vías, fallas de alumbrado o acumulación de basura. 
+Las entidades reciben esos datos organizados y pueden responder más rápido.
+Esto mejora la comunicación entre comunidad y gobierno, hace los procesos más 
+transparentes y ayuda a tomar mejores decisiones porque toda la información queda registrada. 
+Sin APIs sería muy difícil que diferentes sistemas se comuniquen entre sí.
